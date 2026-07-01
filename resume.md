@@ -27,4 +27,4 @@ Jurutera Sistem yang berpengalaman luas selama lebih 15 tahun dalam pengurusan s
 - **Pengurusan Pasukan:** Team Leadership, Incident Management, SLA Management.
 
 ## PENDIDIKAN
-- [Ijazah Sarjana Muda Kejuruteraan Elektronik] | [Universiti Multimedia] 
+- [Ijazah Sarjana Muda] | [Universiti Multimedia] 
