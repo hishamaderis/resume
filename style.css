@@ -201,8 +201,8 @@ body {
   text-align: center;
 }
 
-/* Copy email interactiveness */
-.contact-email {
+/* Copy email & interactive contact link interactiveness */
+.contact-email, .contact-link {
   cursor: pointer;
   position: relative;
   border-radius: 8px;
@@ -210,9 +210,11 @@ body {
   margin-left: -8px;
   width: calc(100% + 16px);
   transition: background 0.2s ease;
+  text-decoration: none;
+  color: inherit !important;
 }
 
-.contact-email:hover {
+.contact-email:hover, .contact-link:hover {
   background: var(--divider-color);
 }
 
@@ -519,7 +521,7 @@ body {
     justify-content: center;
   }
   
-  .contact-email:hover {
+  .contact-email:hover, .contact-link:hover {
     background: transparent !important;
   }
   
